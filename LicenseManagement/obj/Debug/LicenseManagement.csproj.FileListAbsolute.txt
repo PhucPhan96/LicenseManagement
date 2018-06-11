@@ -1,0 +1,25 @@
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csprojResolveAssemblyReference.cache
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.Form1.resources
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.Properties.Resources.resources
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csproj.GenerateResource.cache
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csproj.CoreCompileInputs.cache
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.exe.config
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.exe
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.pdb
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csproj.CopyComplete
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.exe
+C:\Users\JohnsonBB\Documents\Visual Studio 2017\project\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.pdb
+E:\LicenseProject\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.exe.config
+E:\LicenseProject\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.exe
+E:\LicenseProject\LicenseManagement\LicenseManagement\bin\Debug\LicenseManagement.pdb
+E:\LicenseProject\LicenseManagement\LicenseManagement\bin\Debug\Newtonsoft.Json.dll
+E:\LicenseProject\LicenseManagement\LicenseManagement\bin\Debug\System.Net.Http.Formatting.dll
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csprojResolveAssemblyReference.cache
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.Form1.resources
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.Properties.Resources.resources
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csproj.GenerateResource.Cache
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.csproj.CoreCompileInputs.cache
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.exe
+E:\LicenseProject\LicenseManagement\LicenseManagement\obj\Debug\LicenseManagement.pdb
